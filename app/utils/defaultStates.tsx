@@ -1,17 +1,17 @@
 const defaultStates = [
   {
-    name: "Madrid",
-    country: "ES",
-    state: "Madrid",
-    lat: 40.4165,
-    lon: -3.7026,
+    name: "Ho Chi Minh City",
+    country: "VN",
+    state: "HCM",
+    lat: 10.823098,
+    lon: 106.629663,
   },
   {
-    name: "London",
-    country: "GB",
-    state: "England",
-    lat: 51.5074,
-    lon: 0.1278,
+    name: "Ha Noi",
+    country: "VN",
+    state: "HN",
+    lat: 21.028511,
+    lon: 105.804817,
   },
   {
     name: "New York",
